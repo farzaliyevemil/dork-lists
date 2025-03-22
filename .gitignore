@@ -1,0 +1,15 @@
+# Ignore temporary files
+*.log
+*.bak
+*.tmp
+*.swp
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
+desktop.ini
